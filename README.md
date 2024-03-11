@@ -1,0 +1,23 @@
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<h1 align="center">Hi 👋, I'm MizukiYuta</h1>
+<h3 align="center">A soon to be Programmer and Game Developer </h3>
+<p align="center">I am a aspiring programmer who wants to be a Game/Web Developer.Computer always fascinate me as a kid and introduced me to the wonders of technology </p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=MizukiYuta&label=Profile%20views&color=0e75b6&style=flat" alt="MizukiYuta" /> 
+<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="MizukiYuta's language" /> -->
+<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/MizukiYuta"> -->
+</p>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+- 🔭 I’m currently Studying  on **UNIVERSITY OF SCIENCE AND TECHNOLOGY SOUTHERN PHILIPPINES **
+
+- 🌱 I’m currently learning **PYTHON,JAVA,C++AND MORE**
+
+- 📫 How to reach me **boylesjhunlloyd@gmail.com**
+
+- ⚡ Fun fact **I like making stories like novels,manga and also world building**
