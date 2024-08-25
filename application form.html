@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/jpg" href="image/cat.jpg">
+    <
+    <title>Document</title>
+</head>
+<body>
+    <header style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+        <h1>FORM SUBMISSION</h1>
+        <a href=""
+            title="return to home">home</a>
+        <a href="" 
+            title="look at all the contents">contents</a>
+        <a href="" 
+            title="all about this webpage">about us</a>
+        <a href="" 
+            title="contact details">contact us</a>
+    </header><br>
+    <div style="text-align:left" >
+        
+            <form action=" index.php" methods="POST">
+
+                <label for="username"><b>username:</b></label>
+                <input type="text" id="username" placeholder="gege " minlength="9" maxlength=15 required><br>
+                
+                <label for="password"><b>password:</b></label>
+                <input type="password" id="password" ><br>
+
+                <label for="email"><b>Email: </b></label>
+                <input type="email" id="email" placeholder="gege@gmail.com" required><br>
+
+                <label for="date"><b>birthday:</b></label>
+                <input type="date" id="bday"><br> 
+           
+                <text><b>How many sibling you have:</b></text><br>
+                
+                <label for="quantity"><b>quantity:</b></label>
+                <input type="number" id="quantity" min="0"><br>
+
+                <label for="status">
+                    <b>
+                        status:
+                    </b>
+                </label>
+
+                <label for="single"> single</label>
+                <input type="radio" id="single" value="single" name="status">
+                <label for="married">married</label>
+                <input type="radio" id="married" value="married" name="status">
+                <label for="widowed">widowed</label>
+                <input type="radio" id="widowed" value="widowed" name="status"><br>
+
+                <label for="profession"><b>profession:</b></label>
+                <select id="profession"><br>
+                    <option value="unemployed">unemployed</option>
+                    <option value="working full time">working full time</option>
+                    <option value="student">student</option>
+                </select><br>    
+                <label for="graduated"><b>graduated</b></label>
+                <input type="checkbox" id="graduated"><br>
+                
+                <text><b>Submit a photo: </b></text><br>
+
+                <label for="file"><b>file:</b></label><br>
+                <input type="file" id="file" accept="image/png, image/jpeg"><br>
+
+                <input type="reset"><br>
+                <input type="submit"><br>
+               
+                <text><b>for any additional comment:</b></text>
+    
+
+                <label for="comment" style="display: flow-root;"><b>Comment:</b></label>
+                <textarea id="comment" rows="2" cols="20" style="margin: auto;"></textarea>
+
+            </form>
+    </div>
+            
+
+            </body>
+    </html>
+
+   <!-- <footer>
+             <hr>
+             author: kaipuplo<br>
+              &copy; copyright reserverd<br>
+            <small><a href="mailto:boyles@gmail.com"> boyles@gmail.com</a></small>
+
+            </footer> 
+        
