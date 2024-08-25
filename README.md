@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **PYTHON,JAVA,C++AND MORE**
 
-- 📫 How to reach me **jojoworld@gmail.com**
+- 📫 How to reach me **boylesjhunlloyd@gmail.com**
 
 - ⚡ Fun fact **I like making stories like novels,manga and also world building**
 br>
