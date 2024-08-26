@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently Studying  on **UNIVERSITY OF SCIENCE AND TECHNOLOGY SOUTHERN PHILIPPINES **
 
-- 🌱 I’m currently learning **PYTHON,JAVA,C++AND MORE**
+- 🌱 I’m currently learning **PYTHON,JAVA,C PROGARAMMING AND MORE**
 
 - 📫 How to reach me **boylesjhunlloyd@gmail.com**
 
@@ -29,7 +29,6 @@ br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
-a>
 </p>
 
 
