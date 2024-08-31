@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class addingcalculator {
+public class calculator {
 
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in) // Close the scanner to free up resources
