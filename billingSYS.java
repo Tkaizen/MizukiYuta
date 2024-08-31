@@ -11,7 +11,7 @@ public class billingsys {
         System.out.print("Enter quantity: ");
         int quantity = scanner.nextInt();
         
-    
+    // commentsfa//
         float total = price * quantity;
         System.out.println("The total amount is: " + total);
         
