@@ -2,16 +2,26 @@ import java.util.Scanner;
 
 public class calculator {
 
+    private static void separator(){
+
+        System.out.println("---------------------------------");
+    }
+
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in) // Close the scanner to free up resources
         ) {
-            System.out.println("Enter first number:");
+            separator();
+            System.out.println("Simple Calculator");
+
+            separator();
+            System.out.print("Enter first number: ");
             double num1 = scanner.nextDouble();
 
-            System.out.println("Enter second number:");
+            System.out.print("Enter second number: ");
             double num2 = scanner.nextDouble();
 
-            System.out.println("Enter operation (+, -, *, /):");
+            separator();
+            System.out.print("Enter operation (+, -, *, /): ");
             char operation = scanner.next().charAt(0);
 
             double result;
@@ -34,7 +44,10 @@ public class calculator {
                 }
             }
 
-            System.out.println("The result is: " + result);
+            separator();
+            System.out.println("Result: ");
+            System.out.println(num1 + " " + operation + " " + num2 + " = " + result);
+            separator();
         }
     }
 }
