@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class calculator {
 
     private static void separator(){
-
+        //this is for the separator
         System.out.println("---------------------------------");
     }
 
@@ -38,16 +38,15 @@ public class calculator {
                         return;
                     }
                 }
-                default -> {
-                    System.out.println("Error! Invalid operation.");
+                default -> { 
+                    System.out.println("Error! Invalid operation."); //sends this message if not in the choices
                     return;
                 }
             }
 
             separator();
             System.out.println("Result: ");
-            System.out.println(num1 + " " + operation + " " + num2 + " = " + result);
-            separator();
+            System.out.println(num1 + " " + operation + " " + num2 + " = " + result); //prints the result
         }
     }
 }
